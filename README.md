@@ -14,3 +14,4 @@ A few resources to get you started if this is your first Flutter project:
 For help getting started with Flutter development, view the
 [online documentation](https://docs.flutter.dev/), which offers tutorials,
 samples, guidance on mobile development, and a full API reference.
+![flutter_app-removebg-preview](https://github.com/Shalu6634/flutter_app/assets/149373622/f4ecc07c-b1ad-4535-82e0-ccaf5df5da60)
